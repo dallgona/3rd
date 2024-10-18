@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f0f819a0-1df3-4d89-b9b3-2b71c8a411f7)# AIFFEL Data Scientist Campus Code Peer Review Templete
+# AIFFEL Data Scientist Campus Code Peer Review Templete
 
 코더 : 김진형
 
