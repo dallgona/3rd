@@ -1,10 +1,8 @@
-# AIFFEL Data Scientist Campus Code Peer Review Templete
+AIFFEL Data Scientist Campus Code Peer Review
 
 코더 : 김진형
 
 리뷰어 : 손지현
-
----
 
 🔑 **PRT(Peer Review Template)**
 
@@ -13,7 +11,7 @@
 ![image](https://github.com/user-attachments/assets/c1ebd08d-c136-4a10-b45a-e28a2b5be64b)
     
 [✅]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
-	주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
+주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
 
 - 해당 코드 블럭에 doc string/annotation이 달려 있는지 확인
 - 가장 핵심적인 부분은 계좌번호를 생성하는 메서드, 입금 메서드, 출금 메서드이고, 복잡한 부분은 이자 지급 메서드라고 생각합니다. 해당 코드 블럭에는 간단하게 주석이 작성되어 있습니다.  
